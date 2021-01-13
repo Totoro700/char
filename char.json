@@ -1,0 +1,671 @@
+{
+	// UPR_LTTR START
+	"A": {
+		"name": "letter_A",
+		"value": "A",
+		"id": "UPR_LTTR_A",
+		"char-type": "letter",
+		"js-key-code": "65"
+	},
+	"B": {
+		"name": "letter_B",
+		"value": "B",
+		"id": "UPR_LTTR_B",
+		"char-type": "letter",
+		"js-key-code": "66"
+	},
+	"C": {
+		"name": "letter_C",
+		"value": "C",
+		"id": "UPR_LTTR_C",
+		"char-type": "letter",
+		"js-key-code": "67"
+	}, 
+	"D": {
+		"name": "letter_D",
+		"value": "D",
+		"id": "UPR_LTTR_D",
+		"char-type": "letter",
+		"js-key-code": "68"
+	},
+	"E": {
+		"name": "letter_E",
+		"value": "E",
+		"id": "UPR_LTTR_E",
+		"char-type": "letter",
+		"js-key-code": "69"
+	},
+	"F": {
+		"name": "letter_F",
+		"value": "F",
+		"id": "UPR_LTTR_F",
+		"char-type": "letter",
+		"js-key-code": "70"
+	},
+	"G": {
+		"name": "letter_G",
+		"value": "G",
+		"id": "UPR_LTTR_G",
+		"char-type": "letter",
+		"js-key-code": "71",
+	},
+	"H": {
+		"name": "letter_H",
+		"value": "H",
+		"id": "UPR_LTTR_H",
+		"char-type": "letter",
+		"js-key-code": "72"
+	},
+	"I": {
+		"name": "letter_I",
+		"value": "I",
+		"id": "UPR_LTTR_I",
+		"char-type": "letter",
+		"js-key-code": "73"
+	},
+	"J": {
+		"name": "letter_J",
+		"value": "J",
+		"id": "UPR_LTTR_J",
+		"char-type": "letter",
+		"js-key-code": "74"
+	},
+	"K": {
+		"name": "letter_K",
+		"value": "K",
+		"id": "UPR_LTTR_K",
+		"char-type": "letter",
+		"js-key-code": "75"
+	},
+	"L": {
+		"name": "letter_L",
+		"value": "L",
+		"id": "UPR_LTTR_L",
+		"char-type": "letter",
+		"js-key-code": "76"
+	},
+	"M": {
+		"name": "letter_M",
+		"value": "M",
+		"id": "UPR_LTTR_M",
+		"char-type": "letter",
+		"js-key-code": "77"
+	},
+	"N": {
+		"name": "letter_N",
+		"value": "N",
+		"id": "UPR_LTTR_N",
+		"char-type": "letter",
+		"js-key-code": "78"
+	},
+	"O": {
+		"name": "letter_N",
+		"value": "O",
+		"id": "UPR_LTTR_N",
+		"char-type": "letter",
+		"js-key-code": "79"
+	},
+	"P": {
+		"name": "letter_N",
+		"value": "P",
+		"id": "UPR_LTTR_N",
+		"char-type": "letter",
+		"js-key-code": "80"
+	},
+	"Q": {
+		"name": "letter_Q",
+		"value": "Q",
+		"id": "UPR_LTTR_Q",
+		"char-type": "letter",
+		"js-key-code": "81"
+	},
+	"R": {
+		"name": "letter_R",
+		"value": "R",
+		"id": "UPR_LTTR_R",
+		"char-type": "letter",
+		"js-key-code": "82"
+	},
+	"S": {
+		"name": "letter_S",
+		"value": "S",
+		"id": "UPR_LTTR_S",
+		"char-type": "letter",
+		"js-key-code": "83"
+	},
+	"T": {
+		"name": "letter_T",
+		"value": "T",
+		"id": "UPR_LTTR_T",
+		"char-type": "letter",
+		"js-key-code": "84"
+	},
+	"U": {
+		"name": "letter_U",
+		"value": "U",
+		"id": "UPR_LTTR_U",
+		"char-type": "letter",
+		"js-key-code": "85"
+	},
+	"V": {
+		"name": "letter_V",
+		"value": "V",
+		"id": "UPR_LTTR_V",
+		"char-type": "letter",
+		"js-key-code": "86"
+	},
+	"W": {
+		"name": "letter_W",
+		"value": "W",
+		"id": "UPR_LTTR_W",
+		"char-type": "letter",
+		"js-key-code": "87"
+	},
+	"X": {
+		"name": "letter_X",
+		"value": "X",
+		"id": "UPR_LTTR_X",
+		"char-type": "letter",
+		"js-key-code": "88"
+	},
+	"Y": {
+		"name": "letter_Y",
+		"value": "Y",
+		"id": "UPR_LTTR_Y",
+		"char-type": "letter",
+		"js-key-code": "89"
+	},
+	"Z": {
+		"name": "letter_Z",
+		"value": "Z",
+		"id": "UPR_LTTR_Z",
+		"char-type": "letter",
+		"js-key-code": "90"
+	},
+	// UPR_LTTR END
+
+	// LWR_LTTR START
+	"a": {
+		"name": "letter_a",
+		"value": "a",
+		"id": "LWR_LTTR_A",
+		"char-type": "letter",
+		"js-key-code": "65"
+	},
+	"b": {
+		"name": "letter_b",
+		"value": "b",
+		"id": "LWR_LTTR_B",
+		"char-type": "letter",
+		"js-key-code": "66"
+	},
+	"c": {
+		"name": "letter_c",
+		"value": "c",
+		"id": "LWR_LTTR_C",
+		"char-type": "letter",
+		"js-key-code": "67"
+	}, 
+	"d": {
+		"name": "letter_d",
+		"value": "d",
+		"id": "LWR_LTTR_D",
+		"char-type": "letter",
+		"js-key-code": "68"
+	}, 
+	"e": {
+		"name": "letter_e",
+		"value": "e",
+		"id": "LWR_LTTR_E",
+		"char-type": "letter",
+		"js-key-code": "69"
+	}, 
+	"f": {
+		"name": "letter_f",
+		"value": "f",
+		"id": "LWR_LTTR_F",
+		"char-type": "letter",
+		"js-key-code": "70"
+	}, 
+	"g": {
+		"name": "letter_g",
+		"value": "g",
+		"id": "LWR_LTTR_G",
+		"char-type": "letter",
+		"js-key-code": "71"
+	}, 
+	"h": {
+		"name": "letter_h",
+		"value": "h",
+		"id": "LWR_LTTR_H",
+		"char-type": "letter",
+		"js-key-code": "72"
+	}, 
+	"i": {
+		"name": "letter_i",
+		"value": "i",
+		"id": "LWR_LTTR_I",
+		"char-type": "letter",
+		"js-key-code": "73"
+	}, 
+	"j": {
+		"name": "letter_j",
+		"value": "j",
+		"id": "LWR_LTTR_J",
+		"char-type": "letter",
+		"js-key-code": "74"
+	}, 
+	"k": {
+		"name": "letter_k",
+		"value": "k",
+		"id": "LWR_LTTR_K",
+		"char-type": "letter",
+		"js-key-code": "75"
+	}, 
+	"l": {
+		"name": "letter_l",
+		"value": "l",
+		"id": "LWR_LTTR_L",
+		"char-type": "letter",
+		"js-key-code": "76"
+	},
+	"m": {
+		"name": "letter_m",
+		"value": "m",
+		"id": "LWR_LTTR_M",
+		"char-type": "letter",
+		"js-key-code": "77"
+	},
+	"n": {
+		"name": "letter_n",
+		"value": "n",
+		"id": "LWR_LTTR_N",
+		"char-type": "letter",
+		"js-key-code": "78"
+	},
+	"o": {
+		"name": "letter_o",
+		"value": "o",
+		"id": "LWR_LTTR_O",
+		"char-type": "letter",
+		"js-key-code": "79"
+	},
+	"p": {
+		"name": "letter_p",
+		"value": "p",
+		"id": "LWR_LTTR_P",
+		"char-type": "letter",
+		"js-key-code": "80"
+	},
+	"q": {
+		"name": "letter_q",
+		"value": "q",
+		"id": "LWR_LTTR_Q",
+		"char-type": "letter",
+		"js-key-code": "81"
+	},
+	"r": {
+		"name": "letter_r",
+		"value": "r",
+		"id": "LWR_LTTR_R",
+		"char-type": "letter",
+		"js-key-code": "82"
+	},
+	"s": {
+		"name": "letter_s",
+		"value": "s",
+		"id": "LWR_LTTR_S",
+		"char-type": "letter",
+		"js-key-code": "83"
+	},
+	"t": {
+		"name": "letter_t",
+		"value": "t",
+		"id": "LWR_LTTR_T",
+		"char-type": "letter",
+		"js-key-code": "84"
+	},
+	"u": {
+		"name": "letter_u",
+		"value": "u",
+		"id": "LWR_LTTR_U",
+		"char-type": "letter",
+		"js-key-code": "85"
+	},
+	"v": {
+		"name": "letter_v",
+		"value": "v",
+		"id": "LWR_LTTR_V",
+		"char-type": "letter",
+		"js-key-code": "86"
+	},
+	"w": {
+		"name": "letter_w",
+		"value": "w",
+		"id": "LWR_LTTR_W",
+		"char-type": "letter",
+		"js-key-code": "87"
+	},
+	"x": {
+		"name": "letter_x",
+		"value": "x",
+		"id": "LWR_LTTR_X",
+		"char-type": "letter",
+		"js-key-code": "88"
+	},
+	"y": {
+		"name": "letter_y",
+		"value": "y",
+		"id": "LWR_LTTR_Y",
+		"char-type": "letter",
+		"js-key-code": "89"
+	},
+	"z": {
+		"name": "letter_z",
+		"value": "z",
+		"id": "LWR_LTTR_Z",
+		"char-type": "letter",
+		"js-key-code": "90"
+	},
+	// LWR_LTTR END
+
+	// NUM START
+	"1": {
+		"name": "number_1",
+		"value": "1",
+		"id": "NUM_1",
+		"char-type": "number",
+		"js-key-code": "49"
+	},
+	"2": {
+		"name": "number_2",
+		"value": "2",
+		"id": "NUM_2",
+		"char-type": "number",
+		"js-key-code": "50"
+	},
+	"3": {
+		"name": "number_3",
+		"value": "3",
+		"id": "NUM_3",
+		"char-type": "number",
+		"js-key-code": "51"
+	},
+	"4": {
+		"name": "number_4",
+		"value": "4",
+		"id": "NUM_4",
+		"char-type": "number",
+		"js-key-code": "52"
+	},
+	"5": {
+		"name": "number_5",
+		"value": "5",
+		"id": "NUM_5",
+		"char-type": "number",
+		"js-key-code": "53"
+	},
+	"6": {
+		"name": "number_6",
+		"value": "6",
+		"id": "NUM_6",
+		"char-type": "number",
+		"js-key-code": "54"
+	},
+	"7": {
+		"name": "number_7",
+		"value": "7",
+		"id": "NUM_7",
+		"char-type": "number",
+		"js-key-code": "55"
+	},
+	"8": {
+		"name": "number_8",
+		"value": "8",
+		"value": "8",
+		"id": "NUM_",
+		"char-type": "number",
+		"js-key-code": "56"
+	},
+	"9": {
+		"name": "number_9",
+		"value": "9",
+		"id": "NUM_9",
+		"char-type": "number",
+		"js-key-code": "57"
+	},
+	"0": {
+		"name": "number_0",
+		"value": "0",
+		"id": "NUM_0",
+		"char-type": "number",
+		"js-key-code": "48"
+	},
+	// NUM END
+
+	// SYM START
+	"`": {
+		"name": "symbol_backtick", // Also called grave accent
+		"value": "`",
+		"id": "SYM_BACKTICK",
+		"char-type": "symbol",
+		"js-key-code": "192"
+	},
+	"~": {
+		"name": "symbol_tilde",
+		"value": "~",
+		"id": "SYM_TILDE",
+		"char-type": "symbol",
+		"js-key-code": "192"
+	},
+	"!": {
+		"name": "symbol_exlam_mark",
+		"value": "!",
+		"id": "SYM_EXLAM_MARK",
+		"char-type": "symbol",
+		"js-key-code": "49"
+	},
+	"@": {
+		"name": "symbol_at_sign",
+		"value": "@",
+		"id": "SYM_AT_SIGN",
+		"char-type": "symbol",
+		"js-key-code": "50"
+	},
+	"#": {
+		"name": "symbol_hash",
+		"value": "#",
+		"id": "SYM_HASH",
+		"char-type": "symbol",
+		"js-key-code": "51"
+	},
+	"$": {
+		"name": "symbol_currency", // You can again choose another name for this if you want
+		"value": "$",
+		"id": "SYM_CURRENCY",
+		"char-type": "symbol",
+		"js-key-code": "52"
+	},
+	"%": {
+		"name": "symbol_mod",
+		"value": "%",
+		"id": "SYM_MOD",
+		"char-type": "symbol",
+		"js-key-code": "53"
+	},
+	"^": {
+		"name": "symbol_crt", // Caret
+		"value": "^",
+		"id": "SYM_CRT",
+		"char-type": "symbol",
+		"js-key-code": "54"
+	},
+	"&": {
+		"name": "symbol_ampsnd", // Ampersand
+		"value": "&",
+		"id": "SYM_AMPSND",
+		"char-type": "symbol",
+		"js-key-code": "55"
+	},
+	"*": {
+		"name": "symbol_astrk", // Asterick
+		"value": "*",
+		"id": "SYM_ASTRK",
+		"char-type": "symbol",
+		"js-key-code": "56"
+	},
+	"(": {
+		"name": "symbol_opn_prnthses",
+		"value": "(",
+		"id": "SYM_OPN_PRNTHSES",
+		"char-type": "symbol",
+		"js-key-code": "57"
+	},
+	")": {
+		"name": "symbol_cls_prnthses",
+		"value": ")",
+		"id": "SYM_CLS_PRNTHSES",
+		"char-type": "symbol",
+		"js-key-code": "48"
+	},
+	"_": {
+		"name": "symbol_underscr", // Underscore
+		"value": "_",
+		"id": "SYM_UNDERSCR",
+		"char-type": "symbol",
+		"js-key-code": "189"
+	},
+	"+": {
+		"name": "symbol_plus",
+		"value": "+",
+		"id": "SYM_PLUS",
+		"char-type": "symbol",
+		"js-key-code": "187"
+	},
+	"-": {
+		"name": "symbol_dsh", // Dash
+		"value": "-",
+		"id": "SYM_DSH",
+		"char-type": "symbol",
+		"js-key-code": "189"
+	},
+	"=": {
+		"name": "symbol_eqlty", // Equality
+		"value": "=",
+		"id": "SYM_EQLTY",
+		"char-type": "symbol",
+		"js-key-code": "187"
+	},
+	"[": {
+		"name": "symbol_sqr_lft", // Square left
+		"value": "[",
+		"id": "SYM_SQR_LFT",
+		"char-type": "symbol",
+		"js-key-code": "219"
+	},
+	"]": {
+		"name": "symbol_sqr_right", // Square right
+		"value": "",
+		"id": "SYM_SQR_RIGHT",
+		"char-type": "symbol",
+		"js-key-code": "221"
+	},
+	"\\": {
+		"name": "symbol_bkslsh",
+		"value": "\\",
+		"id": "SYM_BKSLSH",
+		"char-type": "symbol",
+		"js-key-code": "220"
+	},
+	"{": {
+		"name": "symbol_lft_brc", // Left brace
+		"value": "{",
+		"id": "SYM_LFt_BRC",
+		"char-type": "symbol",
+		"js-key-code": "219"
+	},
+	"}": {
+		"name": "symbol_right_brc",
+		"value": "}",
+		"id": "SYM_RIGHT_BRC",
+		"char-type": "symbol",
+		"js-key-code": "221"
+	},
+	"|": {
+		"name": "symbol_pipe",
+		"value": "|",
+		"id": "SYM_PIPE",
+		"char-type": "symbol",
+		"js-key-code": "220"
+	},
+	";": {
+		"name": "symbol_smcln", // Semicolon
+		"value": ";",
+		"id": "SYM_SMCLN",
+		"char-type": "symbol",
+		"js-key-code": "186"
+	},
+	":": {
+		"name": "symbol_cln", // Colon
+		"value": ":",
+		"id": "SYM_CLN",
+		"char-type": "symbol",
+		"js-key-code": "186"},
+	"'": {
+		"name": "symbol_hlf_qt", // Half quote, or apostrophe 
+		"value": "';'",
+		"id": "SYM_HLF_QT",
+		"char-type": "symbol",
+		"js-key-code": "222"
+	},
+	"\"": {
+		"name": "symbol_quote",
+		"value": "\"",
+		"id": "SYM_QUOTE",
+		"char-type": "symbol",
+		"js-key-code": "222"
+	},
+	",": {
+		"name": "symbol_comma",
+		"value": ",",
+		"id": "SYM_COMMA",
+		"char-type": "symbol",
+		"js-key-code": "188"
+	},
+	".": {
+		"name": "symbol_period",
+		"value": ".",
+		"id": "SYM_PERIOD",
+		"char-type": "symbol",
+		"js-key-code": "190"
+	},
+	"/": {
+		"name": "symbol_SLASH",
+		"value": ";",
+		"id": "SYM_SLASH",
+		"char-type": "symbol",
+		"js-key-code": "191"
+	},
+	"?": {
+		"name": "symbol_questn_mrk",
+		"value": "?",
+		"id": "SYM_QUESTN_MRK",
+		"char-type": "symbol",
+		"js-key-code": "191"
+	},
+	">": {
+		"name": "symbol_arrw_right",
+		"value": ">",
+		"id": "SYM_ARRW_RIGHT",
+		"char-type": "symbol",
+		"js-key-code": "190"
+	},
+	"<": {
+		"name": "symbol_arrw_lft",
+		"value": ";",
+		"id": "SYM_SMCLN",
+		"char-type": "symbol",
+		"js-key-code": "188"
+	},
+	// SYM END
+}
