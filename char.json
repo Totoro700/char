@@ -1,5 +1,4 @@
 {
-	// UPR_LTTR START
 	"A": {
 		"name": "letter_A",
 		"value": "A",
@@ -182,9 +181,6 @@
 		"char-type": "letter",
 		"js-key-code": "90"
 	},
-	// UPR_LTTR END
-
-	// LWR_LTTR START
 	"a": {
 		"name": "letter_a",
 		"value": "a",
@@ -367,9 +363,6 @@
 		"char-type": "letter",
 		"js-key-code": "90"
 	},
-	// LWR_LTTR END
-
-	// NUM START
 	"1": {
 		"name": "number_1",
 		"value": "1",
@@ -440,12 +433,9 @@
 		"id": "NUM_0",
 		"char-type": "number",
 		"js-key-code": "48"
-	},
-	// NUM END
-
-	// SYM START
+	}
 	"`": {
-		"name": "symbol_backtick", // Also called grave accent
+		"name": "symbol_backtick",
 		"value": "`",
 		"id": "SYM_BACKTICK",
 		"char-type": "symbol",
@@ -480,7 +470,7 @@
 		"js-key-code": "51"
 	},
 	"$": {
-		"name": "symbol_currency", // You can again choose another name for this if you want
+		"name": "symbol_currency",
 		"value": "$",
 		"id": "SYM_CURRENCY",
 		"char-type": "symbol",
@@ -494,21 +484,21 @@
 		"js-key-code": "53"
 	},
 	"^": {
-		"name": "symbol_crt", // Caret
+		"name": "symbol_crt",
 		"value": "^",
 		"id": "SYM_CRT",
 		"char-type": "symbol",
 		"js-key-code": "54"
 	},
 	"&": {
-		"name": "symbol_ampsnd", // Ampersand
+		"name": "symbol_ampsnd",
 		"value": "&",
 		"id": "SYM_AMPSND",
 		"char-type": "symbol",
 		"js-key-code": "55"
 	},
 	"*": {
-		"name": "symbol_astrk", // Asterick
+		"name": "symbol_astrk",
 		"value": "*",
 		"id": "SYM_ASTRK",
 		"char-type": "symbol",
@@ -529,7 +519,7 @@
 		"js-key-code": "48"
 	},
 	"_": {
-		"name": "symbol_underscr", // Underscore
+		"name": "symbol_underscr",
 		"value": "_",
 		"id": "SYM_UNDERSCR",
 		"char-type": "symbol",
@@ -543,28 +533,28 @@
 		"js-key-code": "187"
 	},
 	"-": {
-		"name": "symbol_dsh", // Dash
+		"name": "symbol_dsh", 
 		"value": "-",
 		"id": "SYM_DSH",
 		"char-type": "symbol",
 		"js-key-code": "189"
 	},
 	"=": {
-		"name": "symbol_eqlty", // Equality
+		"name": "symbol_eqlty",
 		"value": "=",
 		"id": "SYM_EQLTY",
 		"char-type": "symbol",
 		"js-key-code": "187"
 	},
 	"[": {
-		"name": "symbol_sqr_lft", // Square left
+		"name": "symbol_sqr_lft",
 		"value": "[",
 		"id": "SYM_SQR_LFT",
 		"char-type": "symbol",
 		"js-key-code": "219"
 	},
 	"]": {
-		"name": "symbol_sqr_right", // Square right
+		"name": "symbol_sqr_right",
 		"value": "",
 		"id": "SYM_SQR_RIGHT",
 		"char-type": "symbol",
@@ -578,7 +568,7 @@
 		"js-key-code": "220"
 	},
 	"{": {
-		"name": "symbol_lft_brc", // Left brace
+		"name": "symbol_lft_brc",
 		"value": "{",
 		"id": "SYM_LFt_BRC",
 		"char-type": "symbol",
@@ -599,20 +589,20 @@
 		"js-key-code": "220"
 	},
 	";": {
-		"name": "symbol_smcln", // Semicolon
+		"name": "symbol_smcln",
 		"value": ";",
 		"id": "SYM_SMCLN",
 		"char-type": "symbol",
 		"js-key-code": "186"
 	},
 	":": {
-		"name": "symbol_cln", // Colon
+		"name": "symbol_cln"
 		"value": ":",
 		"id": "SYM_CLN",
 		"char-type": "symbol",
 		"js-key-code": "186"},
 	"'": {
-		"name": "symbol_hlf_qt", // Half quote, or apostrophe 
+		"name": "symbol_hlf_qt",
 		"value": "';'",
 		"id": "SYM_HLF_QT",
 		"char-type": "symbol",
